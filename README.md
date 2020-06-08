@@ -8,7 +8,7 @@ pip2 install requests mechanize
 
 git clone https://github.com/TheMahmudul/pacman2.0
 
-cd pacman
+cd pacman2.0
 
 python2 bolt
 
